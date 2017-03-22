@@ -1,5 +1,5 @@
 # Led
-##效果
+## 效果
  ![image](https://github.com/woyunowuyuda/Led/raw/master/show.png)
 ## 原理
 LedView可以将一个TextView（或者其他的View）转换为图点矩阵（类LED效果）的控件。
